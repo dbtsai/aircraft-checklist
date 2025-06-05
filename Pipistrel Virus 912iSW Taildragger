@@ -1,0 +1,358 @@
+# Preflight
+
+## Cockpit
+
+* Door: UNLOCK/OPEN
+* BPRS Handle: CHECK
+* BPRS Pin : Pin inserted
+* Starter Switch : CHECK OFF
+* Green Electrical Switches : All OFF
+* ARROW: Verify Present
+* Flight Controls: Free and Correct
+* Flaps and Airbrakes: Free and Correct
+* LANE A/B Switches: OFF
+* Circuit Breakers: ENGAGED
+* Master Switch: ON
+* Avionics Switch: On
+* PFD / MFD: Verify ON
+* Avionics Cooling Fan: Audible
+* Voltmeter: 12 - 14 V
+* Lights: CHECK operation
+* Pilot Heat: CHECK operation
+* Fuel Quantity: CHECK
+* Fuel Selector: Select Fullest Tank
+* Hobbs & Tach: Record
+* Avionics Switch: OFF
+* Master Switch: OFF
+* Circuit Breakers: CHECK ENGAGED
+* ELT switches: ARM/OFF (armed)  
+
+## Right Fuselage
+
+* Water Trap: Drain, sample
+* Baggage Door: Closed
+* Static Pressure Port: CHECK
+* Wing / Fuselage Seal: CHECK
+* Door Lock: Unlock
+* BPRS Cover, Strap Covers: CHECK
+
+## Wings
+
+* Flaperon: Condition and movement
+* Flaperon Gap Seal: CHECK
+* Hinges, Bolts, Safety Nuts: CHECK
+* Tip: Check
+* NAV/AC lights: CHECK
+* Leading Edge: CHECK
+* Fuel Cap: Open, CHECK, Close
+* Pitot Tube: Cover REMOVED, Clear
+* Water Drain Holes: CHECK Clean
+
+## Main Landing Gear
+
+* Landing Gear: CHECK
+* Tire: CHECK
+* Wheel and brakes: CHECK
+* Wheel Fairing: CHECK
+* Tie Down/Chock: Remove
+
+# Preflight
+
+## Propeller and Cowlings
+
+* Engine Cowlings: CHECK
+* Propeller: CHECK
+* SPINNER: CHECK
+* Air inlets and Outlets: CHECK
+
+## Engine
+* Engine Oil: CHECK
+* Exhaust Pipe: CHECK
+* Landing Light and Camera: CHECK
+
+
+# Taxi
+## Before Engine Start
+* Preflight Inspection: Completed
+* Fuel Quantity: Sufficient
+* Emergency Equipment: On board
+* Passenger: Briefed
+* BPRS Safety Pin: Removed
+* Seats, Pedals, Seat belts: Adjust
+* Parking Brake: Disengage
+* Brakes: Hold
+* Master Switch: ON
+* Avionics Switch: ON
+* Fuel pump (main) breaker: CHECK IN
+* NAV/AC Lights: ON
+* Doors: Closed and latched
+
+## Engine Start
+* Brakes: Hold
+* Fuel Selector: Fullest tank
+* LANE A/B Switches: ON
+* LANE A/B warning lights: CHECK
+* Voltage indication: CHECK
+* Propeller Setting: Set for Take Off
+* Propeller Area: Clear
+* Throttle Lever: 1.5 inch (~55-65%)
+* Oil Pressure Indication: Available
+* Fuel Pressure: CHECK (43 PSI min)
+* Starter Switch: START
+* Throttle Lever: IDLE
+* Oil Pressure: CHECK (43 PSI min)
+* LANE A/B lights: CHECK OFF
+* Throttle Lever: 2000 RPM for 2 mins
+* Throttle Lever: 2500 RPM for warm up
+* Engine Parameters: Monitor
+
+## Before Taxi
+
+* Flaps: (0) or (-)
+* COM / Avionics: As required
+* Cabin Heat / Defrost: As required
+* Fuel Selector: SWITCH to check flow
+* ELT: Armed and CHECK
+* Transponder: Squawk, Alt Mode
+* Nav/GPS: Set
+* Radio: CLNC; Ground/CTAF
+
+## Taxi
+
+* Parking Brake: DISENGAGE
+* Brakes: CHECK
+* Maintain RPM > 3K: for Hot Day
+* Flight Controls: Wind Correction, Back
+
+# Takeoff
+
+## Engine Run-Up
+
+* Brakes: HOLD
+* Doors: Latched
+* Throttle: 4000RPM
+* LANE A OFF: RPM drop
+* LANE B OFF: RPM drop
+* Propeller Setting: Cycle, RPM drop
+* Propeller Setting: Set for takeoff
+* Throttle Lever: 2000 RPM
+* Fuel Pump (AUX): ON
+* Fuel Pressure: CHECK Increase
+* Fuel Pump (Main) Breaker: OFF
+* Fuel Pressure: CHECK Range for AUX
+* Fuel Pump (Main) Breaker: ON
+* Throttle Lever: Full power for ~10 sec 
+* Throttle Lever: SET to 1800 RPM
+
+## Before Takeoff
+
+* Pitot Heat: As Required
+* Seat Belts: Secured
+* BPRS Pin: Verify Pin Removed
+* Airbrakes: Closed and Locked
+* Flaps: +1
+* Trim: Set Neutral
+* Fuel Selector: Fullest Tank
+* Fuel Quantity : CHECK
+* NAV/AC/Landing Lights: As Required
+* Circuit Breakers: CHECK
+* NAV/COM, GPS, XPDR: SET
+* Altimeter: SET
+* Water Cooler Fan: CHECK OFF
+* Engine Parameters: CHECK
+* Flight Controls: Free and Correct
+* Takeoff Briefing: Complete
+* Radio: Tower/CTAF
+
+## Takeoff
+
+* Carb Heat: Off
+* Mixture (Below 3000’ ASL): Rich
+* Throttle: Full
+* Power (2300-2600 RPM): Check
+* Engine Instruments: Check
+* Airspeed: Check
+* Rotate: 55 KIAS
+* Pitch for Vx or Vy: 62/73 KIAS
+* Short Field Clear: 57 KIAS
+
+## Climb
+
+* Flaps: Retract Above 65 KIAS
+* Normal Climb: 75-85 KIAS
+
+# In Flight
+
+## Cruise
+
+* Power: As Required
+* Mixture: Lean as Required
+* Lights: As Required
+
+## Descent
+
+* Carb Heat: As Required
+* Power: As Required
+* Mixture: Rich as Required
+* Lights: As Required
+* Seats & Seatbelts: Secure
+
+## Landing
+
+* Fuel Selector: Both
+* Mixture (Below 3000’ ASL): Rich
+* Carb Heat: Full Heat
+* Downwind: Reduce to Vfe (85 KIAS)
+* Flaps: As Required
+* Landing (0°): 65-75 KIAS
+* Landing (30°): 60-70 KTAS
+* Landing (40°): 55-65 KTAS
+* Landing (30°, Short Field): 62 KTAS
+* Landing (40°, Short Field): 60 KTAS
+
+## After Landing
+
+* Radio: Ground/CTAF
+* Carb Heat: Off
+* Throttle: 1000 RPM
+* Flaps: Retract
+* Mixture: Lean
+* Lights: As Required
+* Pitot Heat: Off
+
+## Shutdown
+
+* Green Electrical Switches: All OFF
+* Throttle Lever: IDLE
+* Engine Parameters: CHECK
+* LANE B Switch: OFF
+* LANE A Switch: OFF
+* Fuel Pump (aux): OFF
+* BPRS Safety Pin: Insert
+* Hobbs & Tach: Record
+* Avionics Switch: OFF
+* Master Switch: OFF
+
+## Secure
+
+* BPRS Pin: CHECK Inserted
+* Parking Brake: Only if necessary
+* Fuel Selector: OFF
+* Pitot Covers: Installed
+* Flight Control: Tie to seatbelts
+* Chocks, Tie-downs: As required
+
+# Reference
+
+## V Speeds
+
+* Vne: 160 KIAS
+* Vno: 128 KIAS
+* Vg (2150 lbs): 62 KIAS
+* Vg (1750 lbs): 56 KIAS
+* Va (2150 lbs): 95 KIAS
+* Va (1750 lbs): 85 KIAS
+* Vfe: 85 KIAS
+* Vx(0°, 0’ MSL): 62 KIAS
+* Vx(0°, 10,000’): 67 KIAS
+* Vy(0°, 0’ MSL): 73 KIAS
+* Vy(0°, 10,000’+): 72 KIAS
+* Vs0: 43 KIAS
+* Vs1: 50 KIAS
+* Vra (2150 lbs): 95 KIAS
+* Vra (1750 lbs): 85 KIAS
+* Max Demo Crosswind: 15 KNOTS
+
+## Specifications
+
+* Usable Fuel: 50 gal
+* Start/Taxi: 1.4 gal
+* Climb Fuel: 11 gal
+* Max Demo Crosswind: 15 kts
+* Cruise 3000’: 2500 RPM/105 KIAS
+* Cruise GPH 3000’: 8.5 gal
+
+## Takeoff Briefing
+
+* Wind direction: Note
+* Take off: Normal, short, soft field
+* Rejected takeoff: Straight ahead
+* Rotate+ w/ runway: Straight ahead
+* Rotate+ no runway: Look 30°
+* Rotate+ 800’+ AGL: Turn around
+
+## Passenger Briefing
+
+* No smoking
+* Seatbelts & shoulder harnesses
+* Exits: doors, windows, forcible
+* Clear plane in emergency
+* Evacuation rally point
+* Ditching procedure (flotation)
+* Location of survival gear
+* Evac plan for off-airport landing
+* Sterile cockpit
+* Point out traffic
+
+## Crew Briefing
+
+* Establish PIC
+* 3-way control exchange
+* State who flies in emergency
+* Both fly until control known
+
+# Emergency
+
+## Engine Fire on Start
+
+* Starter: Continue Cranking 2-3 mins
+* Mixture: Lean to Idle Cutoff
+* Throttle: Open
+* Fuel Selector: Off
+* Mags: Off
+* Master Switches: Off
+* Fire Extinguisher: Activate
+
+## Engine Power Loss
+
+* Airspeed: 62 KIAS
+* Carb Heat: Full Heat
+* Mixture: Rich
+* Fuel Selector: Both
+* Mags: Both
+* Engine Instruments: Check
+
+## Power Off Landing
+
+* Trim for Best Glide: 62 KIAS
+* Landing Area: Identify
+* Radio: Mayday
+* Transponder: 7700
+* Final Approach (40°): 65 KIAS
+* Mixture: Lean to Idle Cutoff
+* Fuel Selector: Off
+* Mags: Off
+* Master Switches: Off
+* Seat Belts: Secure
+* Doors: Unlatched
+
+## Engine Fire in Flight
+
+* Mixture: Lean to Idle Cutoff
+* Fuel Selector: Off
+* Throttle: Closed
+* Master Switches: Off
+* Airspeed to Extinguish: 105 KIAS
+* Vents, Cabin Heat, Air: Closed
+* Airspeed: Increase to extinguish
+* Land: Immediately
+
+## Squawk Codes
+
+* Hijacking: 7500
+* Radio Failure: 7600
+* Mayday: 7700
+
+## Restart Skyview Display
+
+* Press buttons 1, 2, 5 on affected screen
