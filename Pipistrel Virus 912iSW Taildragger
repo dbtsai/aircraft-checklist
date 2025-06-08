@@ -56,7 +56,7 @@
 * Wheel Fairing: CHECK
 * Tie Down/Chock: Remove
 
-# Preflight
+# Preflight / Engine Start
 
 ## Propeller and Cowlings
 
@@ -70,8 +70,6 @@
 * Exhaust Pipe: CHECK
 * Landing Light and Camera: CHECK
 
-
-# Taxi
 ## Before Engine Start
 * Preflight Inspection: Completed
 * Fuel Quantity: Sufficient
@@ -106,6 +104,8 @@
 * Throttle Lever: 2500 RPM for warm up
 * Engine Parameters: Monitor
 
+# Taxi / Run-Up
+
 ## Before Taxi
 
 * Flaps: (0) or (-)
@@ -124,8 +124,6 @@
 * Maintain RPM > 3K: for Hot Day
 * Flight Controls: Wind Correction, Back
 
-# Takeoff
-
 ## Engine Run-Up
 
 * Brakes: HOLD
@@ -143,7 +141,6 @@
 * Fuel Pump (Main) Breaker: ON
 * Throttle Lever: Full power for ~10 sec 
 * Throttle Lever: SET to 1800 RPM
-
 ## Before Takeoff
 
 * Pitot Heat: As Required
@@ -163,6 +160,8 @@
 * Flight Controls: Free and Correct
 * Takeoff Briefing: Complete
 * Radio: Tower/CTAF
+
+# In Flight
 
 ## Takeoff
 
@@ -185,8 +184,6 @@
 * Fuel Selector: Switch Tank every 30min
 * Fuel Pump (Aux): OFF
 
-# In Flight
-
 ## Cruise
 
 * Flaps: (-)
@@ -205,6 +202,8 @@
 * Parking Brake: Disengaged
 * Brake Presure: CHECK (pump pedals)
 * Seat Belts: Secure
+
+# In Flight
 
 ## Landing
 
