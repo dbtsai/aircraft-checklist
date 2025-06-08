@@ -166,59 +166,76 @@
 
 ## Takeoff
 
-* Carb Heat: Off
-* Mixture (Below 3000’ ASL): Rich
+* Brakes: Release
+* Propeller Setting: Set for takeoff
 * Throttle: Full
-* Power (2300-2600 RPM): Check
-* Engine Instruments: Check
-* Airspeed: Check
-* Rotate: 55 KIAS
-* Pitch for Vx or Vy: 62/73 KIAS
-* Short Field Clear: 57 KIAS
+* Engine Parameters: CHECK
+* Airspeed Indication: CHECK
+* Rotate: 45 KIAS
+* Pitch for Vx or Vy: 58/76 KIAS
+* At safe altitude: Flaps (0)
 
-## Climb
+## Climb at 1000AGL
 
-* Flaps: Retract Above 65 KIAS
-* Normal Climb: 75-85 KIAS
+* Fuel Pump (Aux): OFF
+* Climb Power / RPM: SET
+* Best Climb Speed: ESTABLISH
+* Engine Parameters: CHECK/monitor
+* Fuel Pump (Aux): ON to switch tank 
+* Fuel Selector: Switch Tank every 30min
+* Fuel Pump (Aux): OFF
 
 # In Flight
 
 ## Cruise
 
-* Power: As Required
-* Mixture: Lean as Required
-* Lights: As Required
+* Flaps: (-)
+* Cruise Power: SET
+* Engine Parameters: CHECK/monitor
+* Fuel Pump (Aux): ON to switch tank 
+* Fuel Selector: Switch Tank every 30min
+* Fuel Pump (Aux): OFF
 
 ## Descent
 
-* Carb Heat: As Required
-* Power: As Required
-* Mixture: Rich as Required
-* Lights: As Required
-* Seats & Seatbelts: Secure
+* Altimeter: SET
+* Cabin heat / Defrost: As required
+* Landing Light: ON
+* Fuel System: CHECK
+* Parking Brake: Disengaged
+* Brake Presure: CHECK (pump pedals)
+* Seat Belts: Secure
 
 ## Landing
 
-* Fuel Selector: Both
-* Mixture (Below 3000’ ASL): Rich
-* Carb Heat: Full Heat
-* Downwind: Reduce to Vfe (85 KIAS)
-* Flaps: As Required
-* Landing (0°): 65-75 KIAS
-* Landing (30°): 60-70 KTAS
-* Landing (40°): 55-65 KTAS
-* Landing (30°, Short Field): 62 KTAS
-* Landing (40°, Short Field): 60 KTAS
+* Downwind: 80 KIAS
+* Base: 70 KIAS
+* Flaps: As required
+* Airbrakes (on final): As required
+* Trim: As required
+* Fuel Pump (Aux): ON
+* Engine Parameters: CHECK
+* Landing (0): 65-70 KIAS
+* Landing (+1): 60-65 KIAS
+* Landing (+2): 55-60 KIAS
+
+## Go Around
+
+* Throttle Lever: Full Forward
+* Airbrakes: CLOSE
+* Flaps: (+1)
+* Pitch for Vx or Vy: 58/76 KIAS
+* At safe altitude: Flaps (0)
 
 ## After Landing
 
-* Radio: Ground/CTAF
-* Carb Heat: Off
-* Throttle: 1000 RPM
-* Flaps: Retract
-* Mixture: Lean
-* Lights: As Required
-* Pitot Heat: Off
+* Throttle Lever: IDELE (1800RPM)
+* Flaps: (-) or (0)
+* Transponder: STBY
+* Lights: As required
+* Airbrakes: Close at taxi speed
+* ELT: CHECK not transmitting
+* Pitot Heat: OFF
 
 ## Shutdown
 
@@ -246,29 +263,30 @@
 
 ## V Speeds
 
-* Vne: 160 KIAS
-* Vno: 128 KIAS
-* Vg (2150 lbs): 62 KIAS
-* Vg (1750 lbs): 56 KIAS
-* Va (2150 lbs): 95 KIAS
-* Va (1750 lbs): 85 KIAS
-* Vfe: 85 KIAS
-* Vx(0°, 0’ MSL): 62 KIAS
-* Vx(0°, 10,000’): 67 KIAS
-* Vy(0°, 0’ MSL): 73 KIAS
-* Vy(0°, 10,000’+): 72 KIAS
-* Vs0: 43 KIAS
-* Vs1: 50 KIAS
-* Vra (2150 lbs): 95 KIAS
-* Vra (1750 lbs): 85 KIAS
-* Max Demo Crosswind: 15 KNOTS
+* Vne: 130 KIAS
+* Vno: 104 KIAS
+* Vg(flap 0): 69 KIAS
+* Va: 92 KIAS
+* Vfe+2 60 KIAS
+* Vfe+1 70 KIAS
+* Vfe0: 130 KIAS
+
+
+* Vr(flap +1): 45 - 49 KIAS
+* Vx(flap 0): 58 KIAS
+* Vy(flap 0): 76 KIAS
+* Vclimb: 90 - 110 KIAS
+* Vs0: 42 KIAS
+* Vs: 49 KIAS
+* Max Demo Crosswind: 18 KNOTS
+
+* Vapp(flap +1): 60 - 65 KIAS
+* Vapp(flap +2): 55 - 60 KIAS
 
 ## Specifications
 
-* Usable Fuel: 50 gal
-* Start/Taxi: 1.4 gal
-* Climb Fuel: 11 gal
-* Max Demo Crosswind: 15 kts
+* Usable Fuel: 22 gal
+* Max Demo Crosswind: 18 kts
 * Cruise 3000’: 2500 RPM/105 KIAS
 * Cruise GPH 3000’: 8.5 gal
 
@@ -300,59 +318,3 @@
 * 3-way control exchange
 * State who flies in emergency
 * Both fly until control known
-
-# Emergency
-
-## Engine Fire on Start
-
-* Starter: Continue Cranking 2-3 mins
-* Mixture: Lean to Idle Cutoff
-* Throttle: Open
-* Fuel Selector: Off
-* Mags: Off
-* Master Switches: Off
-* Fire Extinguisher: Activate
-
-## Engine Power Loss
-
-* Airspeed: 62 KIAS
-* Carb Heat: Full Heat
-* Mixture: Rich
-* Fuel Selector: Both
-* Mags: Both
-* Engine Instruments: Check
-
-## Power Off Landing
-
-* Trim for Best Glide: 62 KIAS
-* Landing Area: Identify
-* Radio: Mayday
-* Transponder: 7700
-* Final Approach (40°): 65 KIAS
-* Mixture: Lean to Idle Cutoff
-* Fuel Selector: Off
-* Mags: Off
-* Master Switches: Off
-* Seat Belts: Secure
-* Doors: Unlatched
-
-## Engine Fire in Flight
-
-* Mixture: Lean to Idle Cutoff
-* Fuel Selector: Off
-* Throttle: Closed
-* Master Switches: Off
-* Airspeed to Extinguish: 105 KIAS
-* Vents, Cabin Heat, Air: Closed
-* Airspeed: Increase to extinguish
-* Land: Immediately
-
-## Squawk Codes
-
-* Hijacking: 7500
-* Radio Failure: 7600
-* Mayday: 7700
-
-## Restart Skyview Display
-
-* Press buttons 1, 2, 5 on affected screen
